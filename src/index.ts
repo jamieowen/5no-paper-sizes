@@ -2,7 +2,7 @@ import iso from './iso'
 
 const defaultParameters: PaperSizesInterface.Options = { dpi: 300, type: 'mm', width: 0, height: 0 }
 
-class PaperSizes implements PaperSizesInterface.PaperSizesClassMethods {
+export class PaperSizes implements PaperSizesInterface.PaperSizesClassMethods {
     private convert: PaperSizesInterface.Convert = {
       MillimetersToPoints: 2.83465,
       MillimetersToInches: 0.0393701,
@@ -127,4 +127,4 @@ class PaperSizes implements PaperSizesInterface.PaperSizesClassMethods {
     }
 }
 
-module.exports = (isoCode: string | null, options: PaperSizesInterface.Options = defaultParameters): PaperSizesInterface.PaperSizesClassMethods => new PaperSizes(isoCode, options)
+export default (isoCode: string | null, options: PaperSizesInterface.Options = defaultParameters): PaperSizesInterface.PaperSizesClassMethods => new PaperSizes(isoCode, options)

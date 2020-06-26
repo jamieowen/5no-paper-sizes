@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.PaperSizes = void 0;
 var tslib_1 = require("tslib");
 var iso_1 = tslib_1.__importDefault(require("./iso"));
 var defaultParameters = { dpi: 300, type: 'mm', width: 0, height: 0 };
@@ -113,7 +114,8 @@ var PaperSizes = /** @class */ (function () {
     };
     return PaperSizes;
 }());
-module.exports = function (isoCode, options) {
+exports.PaperSizes = PaperSizes;
+exports.default = (function (isoCode, options) {
     if (options === void 0) { options = defaultParameters; }
     return new PaperSizes(isoCode, options);
-};
+});

@@ -24,72 +24,72 @@ declare const _default: {
         in: number[];
         pt: number[];
     };
-    'A0': {
+    A0: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A1': {
+    A1: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A2': {
+    A2: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A3': {
+    A3: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A4': {
+    A4: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A5': {
+    A5: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A6': {
+    A6: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A7': {
+    A7: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A8': {
+    A8: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A9': {
+    A9: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A10': {
+    A10: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A11': {
+    A11: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A12': {
+    A12: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A13': {
+    A13: {
         mm: number[];
         in: number[];
         pt: number[];

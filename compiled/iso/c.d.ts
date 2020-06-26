@@ -1,55 +1,55 @@
 declare const _default: {
-    'C0': {
+    C0: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C1': {
+    C1: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C2': {
+    C2: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C3': {
+    C3: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C4': {
+    C4: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C5': {
+    C5: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C6': {
+    C6: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C7': {
+    C7: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C8': {
+    C8: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C9': {
+    C9: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C10': {
+    C10: {
         mm: number[];
         in: number[];
         pt: number[];

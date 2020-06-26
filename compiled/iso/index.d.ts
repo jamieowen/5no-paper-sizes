@@ -24,199 +24,199 @@ declare const _default: {
         in: number[];
         pt: number[];
     };
-    'A0': {
+    A0: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A1': {
+    A1: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A2': {
+    A2: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A3': {
+    A3: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A4': {
+    A4: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A5': {
+    A5: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A6': {
+    A6: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A7': {
+    A7: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A8': {
+    A8: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A9': {
+    A9: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A10': {
+    A10: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A11': {
+    A11: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A12': {
+    A12: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'A13': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-} & {
-    'B0': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B1': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B2': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B3': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B4': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B5': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B6': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B7': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B8': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B9': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B10': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B11': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B12': {
-        mm: number[];
-        in: number[];
-        pt: number[];
-    };
-    'B13': {
+    A13: {
         mm: number[];
         in: number[];
         pt: number[];
     };
 } & {
-    'C0': {
+    B0: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C1': {
+    B1: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C2': {
+    B2: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C3': {
+    B3: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C4': {
+    B4: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C5': {
+    B5: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C6': {
+    B6: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C7': {
+    B7: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C8': {
+    B8: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C9': {
+    B9: {
         mm: number[];
         in: number[];
         pt: number[];
     };
-    'C10': {
+    B10: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    B11: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    B12: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    B13: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+} & {
+    C0: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C1: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C2: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C3: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C4: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C5: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C6: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C7: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C8: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C9: {
+        mm: number[];
+        in: number[];
+        pt: number[];
+    };
+    C10: {
         mm: number[];
         in: number[];
         pt: number[];
